@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cosmeticsmanagementapp
+POSTGRES_USER=fVJiUWZdHIOTaHbCfcYZfNPRTbWVstjl
+POSTGRES_PASSWORD=DvzZqGaqdK7W22ebv2ARKn5mrxsKkuKOGDhu7DAqb0NwPO0QMqBQbMJnkQ0HSN7m
